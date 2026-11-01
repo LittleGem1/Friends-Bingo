@@ -1,0 +1,8 @@
+{
+  "name": "freunde-bingo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Multiplayer-Spruch-Bingo mit eigenen 3x3-Feldern",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=20" }
+}
